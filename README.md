@@ -1,6 +1,6 @@
 # The Moroccan Rockyou
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Edd13Mora/MoroccanRockyou/89343f0dcdb9d5918cba0615279e6370fe3f2723/asset.svg" alt="Pacman Logo" >
+  <img src="https://raw.githubusercontent.com/Edd13Mora/MoroccanRockyou/main/asset.png" alt="Pacman Logo" >
 </p>
 
 <!-- ABOUT THE PROJECT -->
